@@ -1,2 +1,2 @@
 # halftoning-and-removing-alias-
-code for halftoning，removing alias by Gaussian  low filter
+code for halftoning and removing alias via Gaussian low-pass filter
